@@ -32,3 +32,6 @@ O que foi desenvolvido?
 > + DELETE /tasks/:id
 > + PUT /tasks/:id
 > + PATCH /tasks/:id/complete
+
+### OBSERVAÇÕES
+Como fiz o máximo possível sem consultas, minha parte de verificação se os ids eram válidos ficou diferente do projeto disponibilizado pela Rocketseat, também deixei comentado partes que acabei não compreendendo muito bem.
